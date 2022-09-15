@@ -1,0 +1,12 @@
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\bin\Debug\TestBrotherPilotsList.exe.config
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\bin\Debug\TestBrotherPilotsList.exe
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\bin\Debug\TestBrotherPilotsList.pdb
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.csproj.AssemblyReference.cache
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.csproj.SuggestedBindingRedirects.cache
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.Form1.resources
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.Properties.Resources.resources
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.csproj.GenerateResource.cache
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.csproj.CoreCompileInputs.cache
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.exe
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.pdb
+D:\Study\for job\TestBrothersPilots\TestBrotherPilotsList\obj\Debug\TestBrotherPilotsList.Form2.resources
